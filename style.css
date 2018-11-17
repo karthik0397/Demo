@@ -1,0 +1,46 @@
+ *
+ {
+     margin:0;
+     padding: 0;
+ }
+ header{
+     background-image: url('android-android-phone-cell-phone-404280.jpg');
+     height: 100vh;
+     background-size: cover;
+     background-position:center;
+ }
+ .nav-menu
+ {
+     float: right;
+     list-style:none;
+     margin-top:30px;
+ }
+ .nav-menu li{
+     display: inline-block;
+ }
+ .nav-menu li a{
+     color:#99AAAB;
+     text-decoration: none;
+     padding:5px 20px;
+     font-size: 20px;
+ }
+ .nav-menu li a:hover
+ {
+     border:1px solid gray;
+     background-color: white;
+     font-size:25px;
+ }
+ .tagline
+ {
+     position: absolute;
+     width:1200px;
+     margin-left:0;
+     margin-right:0;
+ }
+ h2
+ {
+     color:white;
+     font-size:50px;
+     text-align: center;
+     margin-top:275px;
+ }
